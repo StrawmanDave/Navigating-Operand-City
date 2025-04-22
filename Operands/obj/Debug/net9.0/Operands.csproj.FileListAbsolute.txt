@@ -1,0 +1,12 @@
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Navigating-Operand-City\Operands\bin\Debug\net9.0\Operands.deps.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Navigating-Operand-City\Operands\bin\Debug\net9.0\Operands.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Navigating-Operand-City\Operands\bin\Debug\net9.0\Operands.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Navigating-Operand-City\Operands\obj\Debug\net9.0\Operands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Navigating-Operand-City\Operands\obj\Debug\net9.0\Operands.AssemblyInfoInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Navigating-Operand-City\Operands\obj\Debug\net9.0\Operands.AssemblyInfo.cs
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Navigating-Operand-City\Operands\obj\Debug\net9.0\Operands.csproj.CoreCompileInputs.cache
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Navigating-Operand-City\Operands\obj\Debug\net9.0\Operands.sourcelink.json
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Navigating-Operand-City\Operands\obj\Debug\net9.0\Operands.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Navigating-Operand-City\Operands\obj\Debug\net9.0\refint\Operands.dll
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Navigating-Operand-City\Operands\obj\Debug\net9.0\Operands.pdb
+C:\Users\HumbleIcarus\Documents\Programming 1410-1415\Navigating-Operand-City\Operands\obj\Debug\net9.0\ref\Operands.dll
